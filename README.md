@@ -12,6 +12,12 @@
  $ pip install pip install vendor\pytest-5.0.1-py3-none-any.whl
  ```
 
+# Browsing in projects
+
+ - Project main file is main.py in a project root
+ - Exercise class is in word_counter/word_counter.py
+ - Unit test in tests/unit/test_word_counter.py
+
 # Execute the project
 
  - Execute actual project
