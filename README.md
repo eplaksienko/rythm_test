@@ -17,13 +17,13 @@
  - Execute actual project
 
  ```sh
- $python main.py
+ $ python main.py
  ```
 
  - Execute unit tests
 
  ```sh
-  $pytest tests\unit
+  $ pytest tests\unit
   ```
 
   That's it folks
